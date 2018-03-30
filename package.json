@@ -1,0 +1,19 @@
+{
+  "name": "objects.layout-whitespace-fix",
+  "version": "1.0.0",
+  "description": "An extension for [inuitcss' `layout`](https://github.com/inuitcss/objects.layout) to remove whitespace.",
+  "main": "_objects.layout-whitespace-fix.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dirkpennings/objects.layout-whitespace-fix.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dirkpennings/objects.layout-whitespace-fix/issues"
+  },
+  "homepage": "https://github.com/dirkpennings/objects.layout-whitespace-fix#readme"
+}
