@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/dirkpennings/objects.layout-whitespace-fix/issues"
   },
-  "homepage": "https://github.com/dirkpennings/objects.layout-whitespace-fix#readme"
+  "homepage": "https://github.com/dirkpennings/objects.layout-whitespace-fix#readme",
+  "dependencies": {
+    "inuit-defaults": "~0.2.1",
+    "inuit-mixins": "~0.2.3",
+    "inuit-layout": "~0.3.2"
+  }  
 }
