@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/efteling/objects.layout-whitespace-fix.git"
+    "url": "git+https://github.com/dirkpennings/objects.layout-whitespace-fix.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/efteling/objects.layout-whitespace-fix/issues"
+    "url": "https://github.com/dirkpennings/objects.layout-whitespace-fix/issues"
   },
-  "homepage": "https://github.com/efteling/objects.layout-whitespace-fix#readme",
+  "homepage": "https://github.com/dirkpennings/objects.layout-whitespace-fix#readme",
   "dependencies": {
     "inuit-defaults": "~0.2.1",
     "inuit-mixins": "~0.2.3",
-    "inuit-layout": "https://github.com/efteling/objects.layout.git#0.3.2"
+    "inuit-layout": "~0.3.2"
   }  
 }
